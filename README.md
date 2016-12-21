@@ -4,4 +4,5 @@
 
 make && sudo make install
 
-=========新增行
+本地git上设置 内容
+RRRRRRRRRRRRRRRRRRRRRRR
