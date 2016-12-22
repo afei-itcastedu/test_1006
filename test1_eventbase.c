@@ -6,6 +6,8 @@
 
 #include <event2/event.h>
 
+#define N 4096
+
 int main(int argc, char *argv[])
 {
     struct event_base *base;
